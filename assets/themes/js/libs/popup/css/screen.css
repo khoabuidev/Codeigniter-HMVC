@@ -1,0 +1,44 @@
+
+	
+	.popup-overlay{position: absolute; top: 0; left: 0; background: #000; width: 100%; height: 100%;z-index:99;}
+    .wrapPopup,
+	.itemsPopup{position:absolute; top:-50000px; left:-50000px;z-index:200}
+    
+
+    .popup { position:relative;  width:100%;}
+/*   
+        .popup .rnd {width:20px; position:absolute; display:block; overflow:hidden}
+        .popup .topLeft { top:-48px; left:0; background-position:0 -120px; height:48px }
+        .popup .topRight { top:-48px; right:0; background-position:100% -120px; height:48px }
+        .popup .bottomLeft { bottom:-18px; height:18px; left:0; background-position:0 -168px;}
+        .popup .bottomRight {bottom:-18px; height:18px; right:0; background-position:100% -168px;}
+        .popup .topM {top:-48px; left:20px; right:20px; background-position:0 -200px; height:27px; width:auto; padding-top:22px;}
+        .popup .topM  h3 { padding:0px 0 0 0; color:#3D3B3B; font-size:15px; text-transform:uppercase; font-weight: bold; float:left; width:42%; margin:0}
+        .popup .topM span{ color:#EB2020; font-style:italic; font-size:12px;}
+		.popup .topM span.title {color:#000; font-style:normal; font-size:12px; font-weight:bold;}
+        .popup .bottomM {bottom:-18px; left:20px; right:20px; background-position:0 -280px;  height:18px; width:auto; background-repeat:repeat-x}		
+        .popup .leftM { background-position:-40px 0;} 
+        .popup .rightM { background-position:-60px 0;}
+		
+
+        .popup .centerPopup {position:relative; background:#FFF; margin:50px 18px 0 18px; padding:4px 10px 10px 6px;overflow:hidden;}
+        .centerPopup.errorMes p{text-align: center;margin: 10px 0;font-size: 15px;text-transform: uppercase;font-weight: bold;color:#ff0000;}
+        .centerPopup .infoOderDetail{ margin-bottom:10px; width:100%; overflow:hidden}
+        .centerPopup .logo{display:block;margin:0 auto;}
+		.centerPopup dt{float:left}
+		.centerPopup dd{float: left;padding: 30px 14px 0 15px;width: 170px;}
+		.centerPopup dd p{margin-top:20px;font-size:15px;font-weight:bold}
+            
+        
+        
+        .popup .close {width:30px; height:31px; background: url(../images/uiIcon.png) -160px -240px no-repeat; position:absolute; top:14px; right:0; z-index:10; cursor:pointer; display:block; text-indent:100px}
+        .popup .close:hover  {background-position: -200px -240px;}
+	
+		
+	.popup .rnd {background-image: url(../images/bgd_ui_popup.png); background-repeat:repeat-x;}
+
+	.popup .leftM {top:0; left:0; height:100%; background-image: url(../images/bgd_ui_popup_y.png); background-repeat:repeat-y;}
+
+	.popup .rightM {top:0; right:0; height:100%; background-image: url(../images/bgd_ui_popup_y.png); background-repeat:repeat-y;}
+
+*/

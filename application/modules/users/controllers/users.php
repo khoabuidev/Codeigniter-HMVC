@@ -22,4 +22,24 @@ class Users extends MX_Controller {
         }
 		
 	}
+
+	public function popup()
+	{
+		echo '<div class="popup">
+<div class="modal-dialog modal-dialog-doc">
+<div class="modal-content">
+	<div class="modal-header modal-header-doc-add ">
+		<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		<span aria-hidden="true" style="font-size:25px;">&times;</span></button>
+		<div class="title-doc-add"><?php echo $msg ?><hr /></div>                       
+	</div>
+	<div class="modal-body frm-login">
+		<div class="row">
+			this is body
+		</div>
+	</div>
+</div>
+</div>
+</div>';
+	}
 }
